@@ -12,7 +12,7 @@ I’m a software engineer and technical writer who is passionate about making pr
 
 ### Projects I'm busy with...
 
-#### <a href="https://github.com/oss-review-toolkit/ort">OSS Review Toolkit</a>
+#### [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort)
 
 OSS Review Toolkit (ORT) provides tooling to safely use, integrate, modify and redistribute third party software including [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
 
@@ -26,7 +26,7 @@ You can use it to:
 
 I regularly contribute to the ORT documentation to help its users better understand how they can use tool to review their software projects
 
-#### <a href="https://github.com/adambmarsh/music_base</a>
+#### [music_base](https://github.com/adambmarsh/music_base)
 
 I plan this as an on-going experiment, with a possibility to open-source any
 generic solutions the project may offer. The current incarnation harvests music
