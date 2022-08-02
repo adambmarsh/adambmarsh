@@ -28,28 +28,9 @@ I regularly contribute to the ORT documentation to help its users better underst
 
 #### [music_base](https://github.com/adambmarsh/music_base)
 
-I plan this as an on-going experiment, with a possibility to open-source any
-generic solutions the project may offer. The current incarnation harvests music
-metadata from music and yaml files and writes it to a PostgreSQL database. 
+Music Base (music_base) is an experiment to build a solution that makes it easier to
+search through a music collection and automatically create playlists. 
 
-The goal is to provide a search facility. The idea stems from the limitations and
-lack of portability and flexibility in the available solutions:
-
-- I can play music locally, using VLC, but searchability is limited
-- If I play music on my NAS, search facilities are extremely poor to
-  non-existent, so I am reduced to browsing through a directory structure of
-  1200+ albums/CDs and 16000+ songs; if I can't think of a name or title, I have
-  to go to my computer to find it (ultimately using find + grep, etc.)
-
-The project thus far has offered good scope for experimenting with:
-  - Django's ORM
-  - asynchronous processing (coroutines)
-  
-Planned enhancements:
-
-- create a Web GUI with a search box and an area to display the search results:
-  - search to be text- and regex-based
-
-- build a playlist from the query results
-- play the playlist on a music player -- either local or a network resource
+The driver behind is project was frustration with the limitations of the search
+functionality in VLC and on my NAS (QNAP) and Kodi.  
 
