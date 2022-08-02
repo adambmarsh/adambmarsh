@@ -24,7 +24,7 @@ You can use it to:
 - Mark files, directories or or package manager scopes as not included in your software project or dependency released artifacts - use it to make clear that license findings in build scripts, documentation or tests in a package sources do not apply to the release (binary) artifact
 - Create a source code archive for your software project, including its dependencies to comply with certain licenses or have your own copy as nothing on the internet is forever
 
-I'm regularly contribute to the ORT documentation to help its users better understand how they can use tool to review their software projects
+I regularly contribute to the ORT documentation to help its users better understand how they can use tool to review their software projects
 
 #### <a href="https://github.com/adambmarsh/music_base</a>
 
