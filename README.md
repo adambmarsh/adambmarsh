@@ -10,7 +10,7 @@ I’m a software engineer and technical writer who is passionate about making pr
 
 🏳️‍🌈 Pronouns: he/him
 
-### Projects I'm busy with...
+### Projects ...
 
 #### [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort)
 
@@ -24,7 +24,7 @@ You can use it to:
 - Mark files, directories or or package manager scopes as not included in your software project or dependency released artifacts - use it to make clear that license findings in build scripts, documentation or tests in a package sources do not apply to the release (binary) artifact
 - Create a source code archive for your software project, including its dependencies to comply with certain licenses or have your own copy as nothing on the internet is forever
 
-I regularly contribute to the ORT documentation to help its users better understand how they can use tool to review their software projects
+I have contributed to the ORT documentation to help its users better understand how they can use tool to review their software projects.
 
 #### [music_base](https://github.com/adambmarsh/music_base)
 
@@ -34,3 +34,10 @@ search through a music collection and automatically create playlists.
 The driver behind is project was frustration with the limitations of the search
 functionality in VLC and on my NAS (QNAP) and Kodi.  
 
+#### [dbus-notifier](https://github.com/adambmarsh/dbus-notifier)
+A very small library generating dbus notifications on Linux.
+
+#### [xspf-gen](https://github.com/adambmarsh/xspf-gen)
+XSPF music playlist generator for VLC, audacious, etc.
+
+#### See also [adambmarsh](https://github.com/adambmarsh)
